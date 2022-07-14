@@ -1,0 +1,28 @@
+body{
+	width:100%;  /* se adapta a cualquier pagina*/
+	text-align: center; 
+	margin-top:5em;
+	background-image:  url("../images/font.jpg");
+	
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+   
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.plantillashtml5{
+	margin-right:auto;
+	margin-left:auto;
+	
+}

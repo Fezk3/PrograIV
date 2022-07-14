@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+#id{
+    display: block;
+}

@@ -1,0 +1,12 @@
+body{
+    height: 100%;
+}
+iframe{
+    width: 80%;
+    height: 600px;
+    border: 5px solid black;
+    margin: 2em;
+}
+a{
+    margin: 2em;
+}

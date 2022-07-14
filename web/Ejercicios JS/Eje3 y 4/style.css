@@ -1,0 +1,37 @@
+h1{
+
+    margin-bottom: 2em;
+
+}
+input{
+    display: block;
+    margin: 10px;
+}
+
+#enviar, #canti{
+
+    background-color: #333;
+    color: #fff;
+    margin: 15px;
+    height: 10%;
+    font-size: large;
+    font-family: Helvetica, sans-serif;
+    border-radius: 0.3em;
+
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+table{
+    margin-top: 2rem;
+}
+
+th, thead
+tfoot {
+    background-color: #333;
+    color: #fff;
+    width: 150px;
+}

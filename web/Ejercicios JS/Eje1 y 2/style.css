@@ -1,0 +1,20 @@
+img{
+    width: 30%;
+    height: 35%;
+}
+
+span{
+    font-size: 5em;
+}
+
+h1{
+    margin: 1rem;
+}
+button:hover{
+
+    border: 3px solid black;
+    cursor: pointer;
+    color: red;
+    z-index: 1;
+
+}

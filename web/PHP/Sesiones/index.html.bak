@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<title>Progra IV</title>
+<meta charset = "utf-8">
+</head>
+<body>
+<h1>Login Progra IV</h1>
+<hr />
+<form action="php/checklogin.php" method="post" >
+<label>Usuario:</label><br>
+<input name="username" type="text" id="username" required>
+<br><br>
+<label>Contraseña:</label><br>
+<input name="password" type="password" id="password" required>
+<br><br>
+<input type="submit" name="Submit" value="LOGIN">
+</form>
+<hr />
+<footer>
+&copy;2021 <a href="http://www.una.ac.cr">UNA</a>
+</footer>
+</body>
+</html>
